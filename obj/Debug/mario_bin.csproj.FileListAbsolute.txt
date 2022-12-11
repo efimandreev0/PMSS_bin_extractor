@@ -1,8 +1,0 @@
-C:\Users\zZz\source\repos\mario_bin\bin\Debug\mario_bin.exe.config
-C:\Users\zZz\source\repos\mario_bin\bin\Debug\mario_bin.exe
-C:\Users\zZz\source\repos\mario_bin\bin\Debug\mario_bin.pdb
-C:\Users\zZz\source\repos\mario_bin\obj\Debug\mario_bin.csproj.AssemblyReference.cache
-C:\Users\zZz\source\repos\mario_bin\obj\Debug\mario_bin.csproj.SuggestedBindingRedirects.cache
-C:\Users\zZz\source\repos\mario_bin\obj\Debug\mario_bin.csproj.CoreCompileInputs.cache
-C:\Users\zZz\source\repos\mario_bin\obj\Debug\mario_bin.exe
-C:\Users\zZz\source\repos\mario_bin\obj\Debug\mario_bin.pdb
