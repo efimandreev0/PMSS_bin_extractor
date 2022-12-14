@@ -116,6 +116,7 @@ namespace mario_bin
             {
                 reader.BaseStream.Position = dataOffset[i];
                 byte[] data = reader.ReadBytes(dataSize[i]);
+                Console.WriteLine("unpacked " + fileNames[i] + ".bcrez");
                 File.WriteAllBytes(outPath + fileNames[i] + ".bcrez", data);
             }
             File.WriteAllLines(outPath + "unkTable.txt", unknown.ToList().Select(t => t.ToString()));
